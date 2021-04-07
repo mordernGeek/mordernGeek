@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mordernGeek
-- 👀 I’m interested in solving challenges that bring positive change
+- 👀 I’m interested in solving challenges that bring about positive change
 - 🌱 I’m currently learning artificial intelligence 
 - 💞️ I’m looking to work on AI/machine learning related projects. 
 - 📫 How to reach me is by email
